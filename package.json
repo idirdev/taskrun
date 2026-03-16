@@ -18,5 +18,9 @@
   },
   "bin": {
     "taskrun": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/taskrun",
+  "bugs": {
+    "url": "https://github.com/idirdev/taskrun/issues"
   }
 }
